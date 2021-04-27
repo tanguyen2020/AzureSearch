@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSearch", "AzureSearch\AzureSearch.csproj", "{84660707-F685-404D-A00E-BBDD4687BC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSearch", "TestSearch\TestSearch.csproj", "{9735AB56-2EF8-4A52-8E55-AF533766CA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84660707-F685-404D-A00E-BBDD4687BC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84660707-F685-404D-A00E-BBDD4687BC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84660707-F685-404D-A00E-BBDD4687BC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84660707-F685-404D-A00E-BBDD4687BC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9735AB56-2EF8-4A52-8E55-AF533766CA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9735AB56-2EF8-4A52-8E55-AF533766CA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9735AB56-2EF8-4A52-8E55-AF533766CA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9735AB56-2EF8-4A52-8E55-AF533766CA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6B05E5-73F4-4A39-90D0-E12A904F1BC9}
+	EndGlobalSection
+EndGlobal
